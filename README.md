@@ -1,5 +1,7 @@
 
 Architecture and working 
+
+
 ![image](https://github.com/spidyss/chatapp/assets/61074365/8aaaaaaf-90b1-4294-9005-092fa4e77166)
 
 
